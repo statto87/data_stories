@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Streamlit App UCL UKRI training workshop
 ```
 ⬆️ (Replace above with your app's name)
 ```

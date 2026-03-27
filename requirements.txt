@@ -2,5 +2,5 @@ streamlit
 pandas
 import
 ploty 
-protobuf==3.20.3
+protobuf
 
